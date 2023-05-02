@@ -1,4 +1,4 @@
-# Optimisez la gestion des données d'une boutique en ligne
+# Optimiser la gestion des données d'une boutique en ligne
 ---
 
 ## Compétences acquises à l'issue du projet
