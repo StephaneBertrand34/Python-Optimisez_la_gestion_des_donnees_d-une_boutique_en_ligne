@@ -1,5 +1,17 @@
-# Python-Optimisez_la_gestion_des_donnees_d-une_boutique_en_ligne
+# Optimisez la gestion des données d'une boutique en ligne
 ---
+
+## Compétences acquises à l'issue du projet
+* Classifier différents types de données
+* Gérer les erreurs et les incohérences présentes sur des données stockées
+* Réaliser une analyse univariée pour interpréter des données
+
+## Outils utilisés
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" height="50" fill="white"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" height="50"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/Python-Panorama_de_la_malnutrition_dans_le_monde/blob/main/thumbnail-matplotlib-773540575.jpg" title="Matplotlib"  alt="Matplotlib" height="50"/>
+
 
 ## Mise en situation
 Vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin.
