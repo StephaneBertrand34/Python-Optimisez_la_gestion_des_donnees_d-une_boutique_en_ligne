@@ -10,9 +10,9 @@
 
 ## Outils utilisés
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" height="50" fill="white"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" height="50"/>&nbsp;
-<img src="https://github.com/StephaneBertrand34/Python-Optimisez_la_gestion_des_donnees_d-une_boutique_en_ligne/blob/main/thumbnail-matplotlib-773540575.jpg" title="Matplotlib"  alt="Matplotlib" height="50"/>
+<img src="https://github.com/StephaneBertrand34/Python_-_Optimiser_la_gestion_des_donnees_d-une_boutique_en_ligne/blob/main/pandas.jpg" title="Pandas"  alt="Pandas" height="50" fill="white"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/Python-Optimisez_la_gestion_des_donnees_d-une_boutique_en_ligne/blob/main/thumbnail-matplotlib-773540575.jpg" title="Matplotlib"  alt="Matplotlib" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" height="50"/>
 
 <br>
 
@@ -26,4 +26,4 @@ Votre mission se décompose en trois parties:
 <br>
 
 ## Notebook Jupyter
-<a href="https://github.com/StephaneBertrand34/Python-Optimisez_la_gestion_des_donnees_d-une_boutique_en_ligne/blob/main/P5_BERTRAND_.ipynb" target="_blank" title="Notebook Jupyter">Cliquer ici</a>
+<a href="https://github.com/StephaneBertrand34/Python-Optimisez_la_gestion_des_donnees_d-une_boutique_en_ligne/blob/main/BERTRAND_.ipynb" target="_blank" title="Notebook Jupyter">Notebook Jupyter</a>
