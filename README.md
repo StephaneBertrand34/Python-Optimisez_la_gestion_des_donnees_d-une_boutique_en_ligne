@@ -26,4 +26,4 @@ Votre mission se décompose en trois parties:
 <br>
 
 ## Notebook Jupyter
-<a href="https://github.com/StephaneBertrand34/Python-Optimisez_la_gestion_des_donnees_d-une_boutique_en_ligne/blob/main/BERTRAND_.ipynb" target="_blank" title="Notebook Jupyter">Notebook Jupyter</a>
+<a href="https://github.com/StephaneBertrand34/Python-Optimisez_la_gestion_des_donnees_d-une_boutique_en_ligne/blob/main/BERTRAND_.ipynb" target="_blank" title="Notebook Jupyter">Notebook.ipynb</a>
