@@ -1,5 +1,6 @@
 # Optimiser la gestion des données d'une boutique en ligne
----
+
+<br>
 
 ## Compétences acquises à l'issue du projet
 * Classifier différents types de données
